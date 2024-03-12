@@ -1,6 +1,6 @@
 # Калькулятор
 Это простое веб-приложение калькулятора, реализованное с использованием **HTML**, **CSS** и **JavaScript**.  
-[Cсылка на блок-схему](https://miro.com/app/board/uXjVNmvMzO4=/)
+[Cсылка на блок-схему miro](https://miro.com/app/board/uXjVNmvMzO4=/)
 
 ![Запись экрана 2024-03-12 в 11 46 58](https://github.com/AV-Loginova/calculator/assets/129111624/60885123-b5ce-4464-a7ed-cbd912d47cec)  
 
